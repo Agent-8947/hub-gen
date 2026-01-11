@@ -1,0 +1,8 @@
+{
+  "name": "Multi-Contact Feedback Hub",
+  "description": "A professional dashboard to create, customize, and deploy multi-channel feedback widgets with smart input validation and Telegram integration simulation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
